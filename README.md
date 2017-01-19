@@ -22,7 +22,7 @@ following functionality:
 
 * Users will be able to select cells, the currently selected cell is shown in
   the bottom left hand corner (`5 — 1` in the screenshot).
-* The table is dynamic: We can add and remove columns from the able, but there
+* The table is dynamic: We can add and remove columns from the table, but there
   will always be a minimum of one cell.
 * For obvious reasons, our users are going to be able to select a cell and fill
   it with content.
